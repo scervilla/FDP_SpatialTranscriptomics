@@ -2,7 +2,7 @@ library(Seurat)
 library(ggplot2)
 library(ggthemes)
 
-source("plotfunct.r")
+source("Desktop/IJC/TFG/scripts/utilitities/plotfunct.r")
 
 
 # 1B 
